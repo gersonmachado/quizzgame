@@ -1,4 +1,4 @@
-from time import sleep #Importar sleep para o usuário ler os resultados
+import time #Importar sleep para o usuário ler os resultados
 
 #Definição de cores por variáveis
 REDN   = "\033[1;31m"
