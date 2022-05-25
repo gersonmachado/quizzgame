@@ -1,4 +1,3 @@
-import time
 from time import sleep #Importar sleep para o usuário ler os resultados
 
 #Definição de cores por variáveis
